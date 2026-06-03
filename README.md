@@ -70,7 +70,6 @@ Para visualizar:
 - Exterior por 30€
 - Interior por 45€
 - Manutenção regular por 35€
-- Opções separadas de manutenção exterior e interior por 20€
 
 ### Processo
 
