@@ -1,0 +1,21 @@
+{
+  "name": "noirdetail",
+  "version": "1.0.0",
+  "description": "Site institucional da Noir Detail, criado para apresentar serviços de limpeza detalhada e detailing premium ao domicílio para automóveis e motociclos.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.2",
+    "helmet": "^8.2.0",
+    "nodemailer": "^8.0.10"
+  }
+}
